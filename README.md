@@ -24,7 +24,7 @@ Aplicativo para auxiliar pais no monitoramento da rotina e comportamento de cria
 
 ## 📊 Documentação
 
-* DER disponível em /docs
+* DER disponível em /docs e em https://dbdiagram.io/d/MODELO-ER-69cc1af9fb2db18e3b4d2c29
 * User Stories
 * Backlog do projeto
 
@@ -38,7 +38,9 @@ Aplicativo para auxiliar pais no monitoramento da rotina e comportamento de cria
 
 ## 👥 Equipe
 
-* Nome dos integrantes
+* Gabriel Pelincel Ramalho
+* Gabriel Curto Teixeira
+* Pedro Henrique Santana de Oliveira
 
 ---
 
