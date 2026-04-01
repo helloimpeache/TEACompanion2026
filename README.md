@@ -1,4 +1,4 @@
-# 📱 AutiSchedule
+# 📱 TEACompanion
 
 Aplicativo para auxiliar pais no monitoramento da rotina e comportamento de crianças com TEA, permitindo o compartilhamento com profissionais da saúde.
 
