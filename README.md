@@ -38,9 +38,9 @@ Aplicativo para auxiliar pais no monitoramento da rotina e comportamento de cria
 
 ## 👥 Equipe
 
-* Gabriel Pelincel Ramalho
-* Gabriel Curto Teixeira
-* Pedro Henrique Santana de Oliveira
+* Gabriel Pelincel Ramalho;
+* Gabriel Curto Teixeira;
+* Pedro Henrique Santana de Oliveira;
 
 ---
 
